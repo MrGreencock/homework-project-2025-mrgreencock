@@ -1,0 +1,5 @@
+#tableView {
+    -fx-font-size: 24px;
+    -fx-border: thin solid black;
+    -fx-border-collapse: collapse;
+}
