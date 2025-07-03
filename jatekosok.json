@@ -1,0 +1,25 @@
+[ {
+  "nev" : "Beni",
+  "elo_pont" : 1350
+}, {
+  "nev" : "Béla",
+  "elo_pont" : 1050
+}, {
+  "nev" : "Géza",
+  "elo_pont" : 1000
+}, {
+  "nev" : "Péter",
+  "elo_pont" : 1050
+}, {
+  "nev" : "Gitta",
+  "elo_pont" : 900
+}, {
+  "nev" : "Jannik Sinner",
+  "elo_pont" : 1050
+}, {
+  "nev" : "Carlos Alcaraz",
+  "elo_pont" : 950
+}, {
+  "nev" : "Karesz",
+  "elo_pont" : 950
+} ]
